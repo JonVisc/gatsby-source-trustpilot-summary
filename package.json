@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-source-trustpilot-summary",
+  "version": "0.1.0",
+  "description": "Source plugin for pulling Trustpilot Summary data into Gatsby V4.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "author": "Jon Romanowski <jon.romanowski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "trustpilot": "^3.3.0"
+  }
+}
